@@ -1,0 +1,2 @@
+<?php 
+echo "Hello : " . $_GET["username"] . "</br>"; echo "Your password is : " . $_GET["password"] . "</br>"; echo "Year: " . $_GET["year"] . "</br>"; echo "Subject: " . $_GET["subject"] . "</br>"; echo "Day selected: " . $_GET["day"] . "</br>";
